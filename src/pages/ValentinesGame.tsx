@@ -31,7 +31,7 @@ const gifs: Record<RelationState, JSX.Element> = {
         <iframe src="https://giphy.com/embed/byLGLI5h3jwRaqd2qU" className={'size-60'}/>
     ),
     [RelationState.KISS]: (
-        <iframe src="src\assets\bears\IMG_2286-ezgif.com-resize.gif" className={'size-60 '} />
+        <iframe src="src\assets\bears\IMG_2286-ezgif.com-resize.gif" className={'size-60'} />
     ),
 };
 
