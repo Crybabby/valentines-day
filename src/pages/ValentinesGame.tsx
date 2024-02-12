@@ -6,7 +6,7 @@ import ChocolateIcon from "../assets/icons/chocolate.png";
 import GitHubIcon from "../assets/icons/github-mark.svg";
 import LoveIcon from "../assets/icons/love.png";
 
-const profileLink = 'https://www.linkedin.com/in/daniel-lyguta-5ba7221b8/';
+const profileLink = 'https://t.me/crybabby';
 const projectLink = 'https://github.com/shinnenkara/valentines-day';
 
 enum RelationState {
@@ -31,7 +31,7 @@ const gifs: Record<RelationState, JSX.Element> = {
         <iframe src="https://giphy.com/embed/byLGLI5h3jwRaqd2qU" className={'size-60'}/>
     ),
     [RelationState.KISS]: (
-        <iframe src="https://giphy.com/embed/lU1sNR33A1EhkK7ol7" className={'size-60'} />
+        <iframe src="src\assets\bears\IMG_2286-ezgif.com-resize.gif" className={'size-60 '} />
     ),
 };
 
