@@ -6,7 +6,7 @@ import ChocolateIcon from "../assets/icons/chocolate.png";
 import GitHubIcon from "../assets/icons/github-mark.svg";
 import LoveIcon from "../assets/icons/love.png";
 
-const profileLink = 'https://www.linkedin.com/in/oleksii-kharchenko-715430165/';
+const profileLink = 'https://www.linkedin.com/in/daniel-lyguta-5ba7221b8/';
 const projectLink = 'https://github.com/shinnenkara/valentines-day';
 
 enum RelationState {
